@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1b3023933f6b60b43be5c0d3c49fa62d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - yildirimPrefab: {fileID: 8974203713140315807, guid: 709b0bd6b0b625249a98409dd7a87343,
+      type: 3}
+  - vurusEfektiPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

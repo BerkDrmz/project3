@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d4c0095f4c823f94c9c535894795a650
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - zaferPariltisi: {fileID: 7478731271839673279, guid: 4d3c8045dd8857a4b8d34c2361c61045,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
